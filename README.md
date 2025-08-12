@@ -59,8 +59,8 @@
   </p>
 
   <p align="center" style="margin:12px 0 6px 0;">
-    <img src="https://github-stats-card-generator.vercel.app/api/svg?SamzZzui=SamzZzui&theme=tokyonight&show_icons=true&hide_border=true&type=contributions" style="border-radius:10px; box-shadow:0 12px 36px rgba(11,20,32,0.6); margin:8px 6px;"/>
-    <img src="https://github-stats-card-generator.vercel.app/api/svg?SamzZzui=SamzZzui&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="border-radius:10px; box-shadow:0 12px 36px rgba(11,20,32,0.6); margin:8px 6px;"/>
+    <img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&theme=tokyonight&show_icons=true&hide_border=true&type=contributions" style="border-radius:10px; box-shadow:0 12px 36px rgba(11,20,32,0.6); margin:8px 6px;"/>
+    <img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="border-radius:10px; box-shadow:0 12px 36px rgba(11,20,32,0.6); margin:8px 6px;"/>
   </p>
 
 
