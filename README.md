@@ -23,6 +23,36 @@
 <div align="center" style="background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00)); padding:14px 18px; border-radius:12px; box-shadow: 0 8px 30px rgba(2,6,23,0.6); margin-bottom:18px; border: 1px solid rgba(255,255,255,0.02);">
   <p style="margin:6px 0;">
     <samp>
+
+<td align="center" width="50%">
+  
+#### 📊 Stats
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #00F0FF;"/>
+
+</td>
+<td align="center" width="50%">
+
+#### 🧠 Top Languages
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=languages&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #FF00FF;"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+#### 🔥 Contributions
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=contributions&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #FFD700;"/>
+
+</td>
+<td align="center">
+
+#### ⭐ Top Repos
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=top-repos&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #00FF7F;"/>
+
+</td>
+</tr>
+</table>
+
       <!-- Typing SVG by SamzZzui -->
       <a href="https://github.com/SamzZzui/readme-typing-svg" style="text-decoration:none;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&height=50&lines=Always+learning+new+things&center=true&color=06b6d4" alt="Typing SVG" style="background:linear-gradient(90deg,#071021,#122032); padding:8px 12px; border-radius:10px; box-shadow:0 8px 22px rgba(3,166,166,0.06);"/>
