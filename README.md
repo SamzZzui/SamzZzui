@@ -111,24 +111,6 @@
     </a>
   </p>
 
-  <p align="center" style="margin:12px 0 6px 0;">
-    <img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&theme=tokyonight&show_icons=true&hide_border=true&type=contributions" style="border-radius:10px; box-shadow:0 12px 36px rgba(11,20,32,0.6); margin:8px 6px;"/>
-    <img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="border-radius:10px; box-shadow:0 12px 36px rgba(11,20,32,0.6); margin:8px 6px;"/>
-  </p>
-
-
-<div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=SamzZzui&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="SamzZzui's Most Used Languages" />
-</div>
-
-
-## 🔝 Top Contributed Repo
-
-<!-- Featured contributed repo — styled card (uses existing contributor service) -->
-
-![](https://github-contributor-stats.vercel.app/api?username=Demo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
 ---
 
 #### 📊 Stats
