@@ -188,19 +188,6 @@
 
 ---
 
-<!-- 📈 OSS Insight – SamzZzui Dashboard (Unique Neon Design) -->
-
-<div align="center" style="
-    background:rgba(0,0,0,0.85);
-    border-radius:20px;
-    padding:0;
-    max-width:850px;
-    box-shadow:0 0 30px rgba(0,255,255,0.25);
-    overflow:hidden;
-    border:1px solid rgba(0,240,255,0.4);
-    backdrop-filter: blur(8px);
-">
-
 <!-- 📈 OSS Insight – SamzZzui Dashboard (Animated Neon Border) -->
 
 <div align="center" style="
