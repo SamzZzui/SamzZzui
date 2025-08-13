@@ -27,32 +27,7 @@
 
 <td align="center" width="50%">
   
-#### 📊 Stats
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #00F0FF;"/>
 
-</td>
-<td align="center" width="50%">
-
-#### 🧠 Top Languages
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=languages&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #FF00FF;"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-#### 🔥 Contributions
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=contributions&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #FFD700;"/>
-
-</td>
-<td align="center">
-
-#### ⭐ Top Repos
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=top-repos&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #00FF7F;"/>
-
-</td>
-</tr>
-</table>
 
       <!-- Typing SVG by SamzZzui -->
       <a href="https://github.com/SamzZzui/readme-typing-svg" style="text-decoration:none;">
@@ -155,6 +130,33 @@
 
 
 ---
+
+#### 📊 Stats
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #00F0FF;"/>
+
+</td>
+<td align="center" width="50%">
+
+#### 🧠 Top Languages
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=languages&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #FF00FF;"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+#### 🔥 Contributions
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=contributions&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #FFD700;"/>
+
+</td>
+<td align="center">
+
+#### ⭐ Top Repos
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=top-repos&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #00FF7F;"/>
+
+</td>
+</tr>
+</table>
 
 
 <!-- Collapsible extra section -->
