@@ -161,60 +161,7 @@
 </p>
 
 
-### DEMO
 
-<!-- 🛠️ NEON ADMIN PANEL STYLE GITHUB DASHBOARD -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Admin%20Panel-SamzZzui-000000?style=for-the-badge&logo=github&logoColor=00F0FF" />
-</p>
-
-<div align="center" style="
-    background:#000000;
-    padding:20px;
-    border-radius:20px;
-    box-shadow:0 0 20px rgba(0,255,255,0.3);
-    max-width:1000px;
-">
-
-<h2 style="color:#00F0FF; text-shadow:0 0 8px #00F0FF;">⚡ SamzZzui – GitHub Dashboard</h2>
-<p style="color:#888; font-size:14px;">Admin Panel View • Neon Theme • Live Stats</p>
-
-<table>
-<tr>
-<td align="center" width="50%">
-  
-#### 📊 Stats
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #00F0FF;"/>
-
-</td>
-<td align="center" width="50%">
-
-#### 🧠 Top Languages
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=languages&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #FF00FF;"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-#### 🔥 Contributions
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=contributions&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #FFD700;"/>
-
-</td>
-<td align="center">
-
-#### ⭐ Top Repos
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=top-repos&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #00FF7F;"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<p style="color:#666; font-size:12px;">💡 Tip: Click any card to view detailed stats on GitHub.</p>
-</div>
 
 ### DEMO 2
 
