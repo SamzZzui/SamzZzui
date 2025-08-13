@@ -188,13 +188,65 @@
 
 ---
 
-<!-- Copy-paste in your Readme.md file -->
+<<!-- 📊 OSS Insight – SQL Query Flowchart (Styled Card) -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=225732546" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=225732546&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @SamzZzui" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=225732546&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+<div align="center">
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<div style="
+    display:inline-block;
+    background: linear-gradient(180deg, rgba(6,6,6,0.98), rgba(0,0,0,0.92));
+    border-radius:14px;
+    overflow:hidden;
+    border: 1px solid rgba(0,240,255,0.15);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.6), 0 0 40px rgba(0,240,255,0.06);
+    font-family: 'Courier New', monospace;
+    font-size:14px;
+    color:#00F0FF;
+    padding:18px;
+    text-align:left;
+    white-space: pre;
+">
+
++-------------------+            
+| What to Retrieve? |    top 10 
++-------------------+            
+        | SELECT               
+        | repo_name,           
+        | COUNT(*) AS stars    
+        v                      
++-------------------+            
+|     From Where?    |    GitHub 
++-------------------+            
+        | FROM                 
+        | github_events        
+        v                      
++-------------------+            
+|     Filter By:     |    last month, AI projects, most popular 
++-------------------+            
+        | WHERE                
+        | type = 'WatchEvent'   
+        | AND created_at > DATE_SUB(NOW(), INTERVAL 1 MONTH) 
+        | AND repo_name LIKE '%AI%' 
+        v                      
++-------------------+            
+|      Group By      |            
++-------------------+            
+        | GROUP BY             
+        | repo_name            
+        v                      
++-------------------+            
+|      Order By      |    most popular 
++-------------------+            
+        | ORDER BY             
+        | stars DESC           
+        v                      
++-------------------+            
+|     Limit To 10    |    top 10 
++-------------------+            
+        | LIMIT                
+        | 10                   
+        v                      
+
+</div>
+
+</div>
