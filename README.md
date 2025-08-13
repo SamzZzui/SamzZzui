@@ -188,28 +188,13 @@
 
 ---
 
-<!-- 📈 OSS Insight – Preview Link (Neon Glass Style) -->
+<!-- Copy-paste in your Readme.md file -->
 
-<div align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=225732546" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=225732546&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @SamzZzui" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=225732546&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=225732546" target="_blank" style="text-decoration:none;">
-
-    <div style="
-        display:inline-block;
-        background: linear-gradient(180deg, rgba(6,6,6,0.98), rgba(0,0,0,0.92));
-        border-radius:12px;
-        padding:14px 22px;
-        border: 1px solid rgba(0,240,255,0.12);
-        box-shadow: 0 10px 30px rgba(0,0,0,0.6), 0 0 40px rgba(0,240,255,0.06);
-        font-family: 'Segoe UI', Roboto, Arial, sans-serif;
-        font-weight:600;
-        font-size:16px;
-        color:#00F0FF;
-        text-shadow: 0 0 8px rgba(0,240,255,0.18);
-    ">
-      📈 OSS Insight Preview →
-    </div>
-
-  </a>
-
-</div>
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
