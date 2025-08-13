@@ -3,9 +3,19 @@
      (Drop this as README.md in repo root)
      ============================ -->
 
-<!-- Featured contributed repo — styled card (uses existing contributor service) -->
+<!-- 🛠️ NEON ADMIN PANEL STYLE GITHUB DASHBOARD -->
 
-![](https://github-contributor-stats.vercel.app/api?username=Demo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Admin%20Panel-SamzZzui-000000?style=for-the-badge&logo=github&logoColor=00F0FF" />
+</p>
+
+<div align="center" style="
+    background:#000000;
+    padding:20px;
+    border-radius:20px;
+    box-shadow:0 0 20px rgba(0,255,255,0.3);
+    max-width:1000px;
+">
 
 [![](https://visitcount.itsvg.in/api?id=SamzZzui&icon=0&color=0)](https://visitcount.itsvg.in)
 
