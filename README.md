@@ -188,73 +188,50 @@
 
 ---
 
-<!-- ⚡ SAMZZZUI – NEON ADMIN PANEL DASHBOARD -->
+<!-- 📈 OSS Insight – SamzZzui Dashboard (Unique Neon Design) -->
 
 <div align="center" style="
-    background:linear-gradient(135deg, rgba(0,0,0,0.95), rgba(15,15,15,0.98));
+    background:rgba(0,0,0,0.85);
     border-radius:20px;
     padding:0;
-    max-width:1100px;
-    box-shadow:0 0 40px rgba(0,255,255,0.2);
+    max-width:850px;
+    box-shadow:0 0 30px rgba(0,255,255,0.25);
     overflow:hidden;
+    border:1px solid rgba(0,240,255,0.4);
+    backdrop-filter: blur(8px);
 ">
 
-<!-- Header Bar -->
+<!-- Top Bar -->
 <div style="
     background:linear-gradient(90deg, #00F0FF, #FF00FF);
-    padding:15px;
-    text-align:left;
+    padding:12px 16px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    font-family:Segoe UI, sans-serif;
 ">
-  <span style="color:#000; font-size:20px; font-weight:bold; font-family:Segoe UI, sans-serif;">
-    ⚡ SamzZzui – GitHub Admin Dashboard
+  <span style="color:#000; font-size:18px; font-weight:bold;">
+    📈 OSS Insight – SamzZzui Dashboard
+  </span>
+  <span style="
+      background:#000;
+      color:#00F0FF;
+      font-size:12px;
+      padding:4px 8px;
+      border-radius:6px;
+      border:1px solid rgba(0,240,255,0.4);
+      font-weight:bold;
+  ">
+    LIVE STATS
   </span>
 </div>
 
-<!-- Dashboard Content -->
-<div style="padding:20px;">
+<!-- Image Section -->
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=225732546" target="_blank" style="display:block; text-decoration:none;">
+  <img 
+    src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=225732546&image_size=auto&color_scheme=dark" 
+    width="100%" 
+    style="border:none; display:block;"/>
+</a>
 
-<!-- Stats Grid -->
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui" style="border-radius:12px; box-shadow:0 0 15px #00F0FF;"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=languages" style="border-radius:12px; box-shadow:0 0 15px #FF00FF;"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=contributions" style="border-radius:12px; box-shadow:0 0 15px #FFD700;"/>
-    </td>
-    <td align="center">
-      <img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=top-repos" style="border-radius:12px; box-shadow:0 0 15px #00FF7F;"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Divider -->
-<hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #00F0FF, transparent); margin:30px 0;"/>
-
-<!-- OSS Insight Card -->
-<div style="
-    background:rgba(0,0,0,0.6);
-    border-radius:15px;
-    padding:15px;
-    box-shadow:0 0 20px rgba(0,240,255,0.3);
-    backdrop-filter: blur(6px);
-">
-  <h3 style="color:#00F0FF; text-align:left; font-family:Segoe UI, sans-serif; margin-top:0;">
-    📈 OSS Insight – Detailed Analytics
-  </h3>
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=225732546" target="_blank">
-    <img 
-      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=225732546&image_size=auto&color_scheme=dark" 
-      width="100%" 
-      style="border-radius:12px; box-shadow:0 0 20px #00F0FF; border:1px solid rgba(0,240,255,0.4);"/>
-  </a>
 </div>
-
-</div> <!-- End Content -->
-
-</div> <!-- End Dashboard -->
