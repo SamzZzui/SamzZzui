@@ -201,6 +201,39 @@
     backdrop-filter: blur(8px);
 ">
 
+<!-- 📈 OSS Insight – SamzZzui Dashboard (Animated Neon Border) -->
+
+<div align="center" style="
+    background:rgba(0,0,0,0.88);
+    border-radius:20px;
+    padding:0;
+    max-width:850px;
+    position:relative;
+    overflow:hidden;
+    backdrop-filter: blur(8px);
+">
+
+<!-- Animated Border Layer -->
+<div style="
+    position:absolute;
+    top:0; left:0; right:0; bottom:0;
+    border-radius:20px;
+    padding:2px;
+    background:linear-gradient(270deg, #00F0FF, #FF00FF, #FFD700, #00FF7F, #00F0FF);
+    background-size:800% 800%;
+    animation: neonFlow 8s ease infinite;
+    z-index:0;
+"></div>
+
+<!-- Inner Content -->
+<div style="
+    position:relative;
+    z-index:1;
+    border-radius:18px;
+    background:rgba(0,0,0,0.95);
+    overflow:hidden;
+">
+
 <!-- Top Bar -->
 <div style="
     background:linear-gradient(90deg, #00F0FF, #FF00FF);
@@ -226,7 +259,7 @@
   </span>
 </div>
 
-<!-- Image Section -->
+<!-- Image -->
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=225732546" target="_blank" style="display:block; text-decoration:none;">
   <img 
     src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=225732546&image_size=auto&color_scheme=dark" 
@@ -235,3 +268,13 @@
 </a>
 
 </div>
+</div>
+
+<!-- Animation Style -->
+<style>
+@keyframes neonFlow {
+  0% { background-position:0% 50%; }
+  50% { background-position:100% 50%; }
+  100% { background-position:0% 50%; }
+}
+</style>
