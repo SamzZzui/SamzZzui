@@ -85,7 +85,10 @@
 
 ### DEMO
 
-![GitHub Stats](https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME)
-![Top Languages](https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=languages)
+![GitHubStats](https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME)
+
+![TopLanguages](https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=languages)
+
 ![Contributions](https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=contributions)
-![Top Repos](https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=top-repos)
+
+![TopRepos](https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=top-repos)
