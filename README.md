@@ -118,98 +118,58 @@
 
 ### DEMO
 
-<!-- 🎛️ GITHUB DASHBOARD – UNIQUE DESIGN -->
+<!-- 🛠️ NEON ADMIN PANEL STYLE GITHUB DASHBOARD -->
 
-<!-- Gradient SVG Header -->
 <p align="center">
-  <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
-        <stop stop-color="#7C3AED" offset="0%"/>
-        <stop stop-color="#06B6D4" offset="50%"/>
-        <stop stop-color="#22C55E" offset="100%"/>
-      </linearGradient>
-      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="8" result="b"/>
-        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-      </filter>
-    </defs>
-    <rect width="1200" height="140" rx="24" fill="url(#g)" opacity="0.12"/>
-    <text x="50%" y="52%" text-anchor="middle" font-family="Segoe UI, Inter, Roboto, Arial" font-size="32" fill="#e6e6e6" filter="url(#glow)">
-      ⚡ GitHub Dashboard — YOUR_USERNAME
-    </text>
-    <text x="50%" y="82%" text-anchor="middle" font-family="Segoe UI, Inter, Roboto, Arial" font-size="14" fill="#bdbdbd">
-      Stats • Languages • Contributions • Top Repos
-    </text>
-  </svg>
+  <img src="https://img.shields.io/badge/GitHub%20Admin%20Panel-SamzZzui-000000?style=for-the-badge&logo=github&logoColor=00F0FF" />
 </p>
 
-<!-- Pills / quick-links -->
-<p align="center">
-  <a href="#stats"><img alt="Stats" src="https://img.shields.io/badge/Stats-active?style=for-the-badge"></a>
-  <a href="#languages"><img alt="Languages" src="https://img.shields.io/badge/Languages-cool?style=for-the-badge"></a>
-  <a href="#contribs"><img alt="Contributions" src="https://img.shields.io/badge/Contributions-heatmap?style=for-the-badge"></a>
-  <a href="#toprepos"><img alt="Top Repos" src="https://img.shields.io/badge/Top%20Repos-picked?style=for-the-badge"></a>
-</p>
+<div align="center" style="
+    background:#000000;
+    padding:20px;
+    border-radius:20px;
+    box-shadow:0 0 20px rgba(0,255,255,0.3);
+    max-width:1000px;
+">
 
-<!-- 2x2 Grid -->
-<table align="center" width="100%">
-  <tr>
-    <td id="stats" align="center" valign="top" width="50%">
-      <h3>📊 Stats</h3>
-      <a href="https://github.com/YOUR_USERNAME">
-        <img 
-          alt="GitHub Stats" 
-          src="https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME"
-          style="border-radius:16px; box-shadow:0 0 0 1px #2a2a2a; max-width:100%;"/>
-      </a>
-    </td>
-    <td id="languages" align="center" valign="top" width="50%">
-      <h3>🧠 Top Languages</h3>
-      <a href="https://github.com/YOUR_USERNAME">
-        <img 
-          alt="Top Languages" 
-          src="https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=languages"
-          style="border-radius:16px; box-shadow:0 0 0 1px #2a2a2a; max-width:100%;"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td id="contribs" align="center" valign="top">
-      <h3>🔥 Contributions</h3>
-      <a href="https://github.com/YOUR_USERNAME">
-        <img 
-          alt="Contributions" 
-          src="https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=contributions"
-          style="border-radius:16px; box-shadow:0 0 0 1px #2a2a2a; max-width:100%;"/>
-      </a>
-    </td>
-    <td id="toprepos" align="center" valign="top">
-      <h3>⭐ Top Repos</h3>
-      <a href="https://github.com/YOUR_USERNAME">
-        <img 
-          alt="Top Repos" 
-          src="https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=top-repos"
-          style="border-radius:16px; box-shadow:0 0 0 1px #2a2a2a; max-width:100%;"/>
-      </a>
-    </td>
-  </tr>
+<h2 style="color:#00F0FF; text-shadow:0 0 8px #00F0FF;">⚡ SamzZzui – GitHub Dashboard</h2>
+<p style="color:#888; font-size:14px;">Admin Panel View • Neon Theme • Live Stats</p>
+
+<table>
+<tr>
+<td align="center" width="50%">
+  
+#### 📊 Stats
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #00F0FF;"/>
+
+</td>
+<td align="center" width="50%">
+
+#### 🧠 Top Languages
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=languages&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #FF00FF;"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+#### 🔥 Contributions
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=contributions&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #FFD700;"/>
+
+</td>
+<td align="center">
+
+#### ⭐ Top Repos
+<img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&type=top-repos&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #00FF7F;"/>
+
+</td>
+</tr>
 </table>
 
-<!-- Collapsible extra section -->
-<details>
-  <summary><b>🎨 Theme & layout options (optional)</b></summary>
-  
-  - Light README? Wrap images in:
-    ```html
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=languages">
-      <img src="https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=languages" />
-    </picture>
-    ```
-  - Thin borders remove karne ke liye `style="box-shadow:none"` use kar sakte ho.
-  - Headers emoji aap apni branding ke hisaab se change kar sakte ho.
-</details>
+---
+
+<p style="color:#666; font-size:12px;">💡 Tip: Click any card to view detailed stats on GitHub.</p>
+</div>
 
 ### DEMO 2
 
