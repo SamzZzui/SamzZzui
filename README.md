@@ -188,101 +188,28 @@
 
 ---
 
-<!-- 📈 OSS Insight – SamzZzui Dashboard (Polished Static Neon Design) -->
+<!-- 📈 OSS Insight – Preview Link (Neon Glass Style) -->
 
-<div align="center" style="max-width:860px; margin:auto;">
+<div align="center">
 
-  <!-- Outer panel -->
-  <div align="left" style="
-      background: linear-gradient(180deg, rgba(6,6,6,0.98), rgba(0,0,0,0.92));
-      border-radius:16px;
-      padding:12px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.6), 0 0 40px rgba(0,240,255,0.06);
-      border: 1px solid rgba(255,255,255,0.03);
-      overflow:hidden;
-      font-family: 'Segoe UI', Roboto, Arial, sans-serif;
-  ">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=225732546" target="_blank" style="text-decoration:none;">
 
-    <!-- Top bar -->
-    <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; padding:10px 12px; border-radius:10px;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <!-- Neon icon circle -->
-        <div style="
-            width:46px; height:46px; border-radius:10px;
-            background: linear-gradient(135deg, rgba(0,240,255,0.12), rgba(255,0,255,0.06));
-            display:flex; align-items:center; justify-content:center;
-            box-shadow: 0 6px 18px rgba(0,240,255,0.06), inset 0 0 12px rgba(255,0,255,0.02);
-            border: 1px solid rgba(0,240,255,0.12);
-        ">
-          <span style="font-size:20px;">📈</span>
-        </div>
-
-        <div style="line-height:1;">
-          <div style="color:#00F0FF; font-weight:700; font-size:15px; text-shadow: 0 0 8px rgba(0,240,255,0.12);">
-            OSS Insight — SamzZzui
-          </div>
-          <div style="color: #99a1a8; font-size:12px; margin-top:2px;">
-            Live analytics snapshot • click to open full view
-          </div>
-        </div>
-      </div>
-
-      <!-- LIVE badge -->
-      <div style="
-          background: linear-gradient(90deg,#000000,#0b0b0b);
-          color:#00F0FF;
-          border:1px solid rgba(0,240,255,0.18);
-          padding:6px 10px;
-          border-radius:999px;
-          font-weight:700;
-          font-size:12px;
-          box-shadow: 0 6px 18px rgba(0,240,255,0.04);
-      ">
-        • LIVE •
-      </div>
+    <div style="
+        display:inline-block;
+        background: linear-gradient(180deg, rgba(6,6,6,0.98), rgba(0,0,0,0.92));
+        border-radius:12px;
+        padding:14px 22px;
+        border: 1px solid rgba(0,240,255,0.12);
+        box-shadow: 0 10px 30px rgba(0,0,0,0.6), 0 0 40px rgba(0,240,255,0.06);
+        font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+        font-weight:600;
+        font-size:16px;
+        color:#00F0FF;
+        text-shadow: 0 0 8px rgba(0,240,255,0.18);
+    ">
+      📈 OSS Insight Preview →
     </div>
 
-    <!-- Content / image with neon frame -->
-    <div style="padding:12px;">
-      <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=225732546" target="_blank" style="display:block; text-decoration:none;">
-        <div style="
-            border-radius:12px;
-            overflow:hidden;
-            border: 1px solid rgba(0,240,255,0.08);
-            box-shadow:
-              0 10px 30px rgba(0,0,0,0.6),
-              0 0 30px rgba(0,240,255,0.06),
-              inset 0 1px 0 rgba(255,255,255,0.02);
-            background: linear-gradient(180deg, rgba(10,10,10,0.6), rgba(6,6,6,0.6));
-        ">
-          <!-- Inner frame with subtle neon glow -->
-          <div style="padding:10px; background:linear-gradient(180deg, rgba(0,0,0,0.55), rgba(0,0,0,0.35));">
-            <img
-              alt="OSS Insight preview — SamzZzui"
-              src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=225732546&image_size=auto&color_scheme=dark"
-              width="100%"
-              style="
-                display:block;
-                border-radius:8px;
-                border: 1px solid rgba(255,255,255,0.02);
-                box-shadow: 0 8px 22px rgba(0,0,0,0.6), 0 0 20px rgba(0,240,255,0.06);
-              "
-            />
-          </div>
-        </div>
-      </a>
-    </div>
+  </a>
 
-    <!-- Footer small controls -->
-    <div style="display:flex; justify-content:space-between; align-items:center; gap:12px; padding:8px 12px 6px 12px; color:#8f9aa0; font-size:12px;">
-      <div>Updated live • OSS Insight</div>
-      <div style="display:flex; gap:8px; align-items:center;">
-        <img alt="oss" src="https://img.shields.io/badge/OSS-Insight-111827?style=for-the-badge&logo=github" style="height:20px; border-radius:6px;"/>
-        <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=225732546" target="_blank" style="color:#7fe8ff; text-decoration:none; font-weight:600;">
-          Open Full Dashboard →
-        </a>
-      </div>
-    </div>
-
-  </div>
 </div>
