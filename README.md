@@ -3,6 +3,10 @@
      (Drop this as README.md in repo root)
      ============================ -->
 
+<!-- Featured contributed repo — styled card (uses existing contributor service) -->
+
+![](https://github-contributor-stats.vercel.app/api?username=Demo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 [![](https://visitcount.itsvg.in/api?id=SamzZzui&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Centered intro block -->
