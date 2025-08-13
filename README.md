@@ -48,6 +48,39 @@
 
 ---
 
+
+<!-- Gradient SVG Header -->
+<p align="center">
+  <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+        <stop stop-color="#7C3AED" offset="0%"/>
+        <stop stop-color="#06B6D4" offset="50%"/>
+        <stop stop-color="#22C55E" offset="100%"/>
+      </linearGradient>
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="8" result="b"/>
+        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+    </defs>
+    <rect width="1200" height="140" rx="24" fill="url(#g)" opacity="0.12"/>
+    <text x="50%" y="52%" text-anchor="middle" font-family="Segoe UI, Inter, Roboto, Arial" font-size="32" fill="#e6e6e6" filter="url(#glow)">
+      ⚡ GitHub Dashboard — SamzZzui
+    </text>
+    <text x="50%" y="82%" text-anchor="middle" font-family="Segoe UI, Inter, Roboto, Arial" font-size="14" fill="#bdbdbd">
+      Stats • Languages • Contributions • Top Repos
+    </text>
+  </svg>
+</p>
+
+<!-- Pills / quick-links -->
+<p align="center">
+  <a href="#stats"><img alt="Stats" src="https://img.shields.io/badge/Stats-active?style=for-the-badge"></a>
+  <a href="#languages"><img alt="Languages" src="https://img.shields.io/badge/Languages-cool?style=for-the-badge"></a>
+  <a href="#contribs"><img alt="Contributions" src="https://img.shields.io/badge/Contributions-heatmap?style=for-the-badge"></a>
+  <a href="#toprepos"><img alt="Top Repos" src="https://img.shields.io/badge/Top%20Repos-picked?style=for-the-badge"></a>
+</p>
+
 <!-- GitHub Stats — grouped inside a stylish container -->
 <div align="center" style="max-width:920px; margin: 8px auto 20px auto; padding:16px; border-radius:12px; background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00)); box-shadow:0 12px 40px rgba(2,6,23,0.6); border:1px solid rgba(255,255,255,0.02);">
   <h3 style="margin:6px 0 14px 0; color:#eaf6fb;">📊 GitHub Stats</h3>
