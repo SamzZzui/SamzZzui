@@ -154,3 +154,33 @@
     ```
   - Borders hatane ke liye `style="box-shadow:none"` use karein.
 </details>
+
+
+
+
+<!-- 🛠️ OSS Insight Card – Neon Admin Panel Style -->
+
+<div align="center" style="
+    background:#000000;
+    padding:20px;
+    border-radius:20px;
+    box-shadow:0 0 20px rgba(0,255,255,0.3);
+    max-width:850px;
+">
+
+<h3 style="color:#00F0FF; text-shadow:0 0 8px #00F0FF; margin-bottom:10px;">
+  📈 OSS Insight – SamzZzui Dashboard
+</h3>
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=225732546" target="_blank" style="display:inline-block; text-decoration:none;">
+  <img 
+    alt="OSS Insight preview" 
+    src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=225732546&image_size=auto&color_scheme=dark" 
+    width="820" 
+    style="border-radius:12px; box-shadow:0 0 15px #00F0FF; border:1px solid rgba(0,240,255,0.4);"/>
+</a>
+
+<p style="color:#666; font-size:12px; margin-top:8px;">
+  💡 Click to explore full OSS Insight stats for <b>SamzZzui</b>.
+</p>
+</div>
