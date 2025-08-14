@@ -103,7 +103,8 @@
 
 <!-- GitHub Stats — grouped inside a stylish container -->
 <div align="center" style="max-width:920px; margin: 8px auto 20px auto; padding:16px; border-radius:12px; background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00)); box-shadow:0 12px 40px rgba(2,6,23,0.6); border:1px solid rgba(255,255,255,0.02);">
-  <h3 style="margin:6px 0 14px 0; color:#eaf6fb;">📊 GitHub Stats</h3>
+  
+####📊 GitHub Stats
 
   <p align="center" style="margin:6px 0;">
     <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=225732546" target="_blank" style="display:inline-block; text-decoration:none;">
