@@ -27,7 +27,7 @@
 
 <td align="center" width="50%">
   
-
+[![](https://visitcount.itsvg.in/api?id=SamzZzui&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">     
       <a href="https://github.com/SamzZzui/readme-typing-svg" style="text-decoration:none;">
