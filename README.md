@@ -29,7 +29,7 @@
   
 
 
-      <!-- Typing SVG by SamzZzui -->
+<p align="center">     
       <a href="https://github.com/SamzZzui/readme-typing-svg" style="text-decoration:none;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&height=50&lines=Always+learning+new+things&center=true&color=06b6d4" alt="Typing SVG" style="background:linear-gradient(90deg,#071021,#122032); padding:8px 12px; border-radius:10px; box-shadow:0 8px 22px rgba(3,166,166,0.06);"/>
       </a>
