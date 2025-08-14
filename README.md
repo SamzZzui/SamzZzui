@@ -112,7 +112,6 @@
     </a>
   </p>
 
----
 
 #### 📊 Stats
 <img src="https://github-stats-card-generator.vercel.app/api/svg?username=SamzZzui&theme=dark" style="border-radius:12px; box-shadow:0 0 15px #00F0FF;"/>
