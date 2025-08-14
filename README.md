@@ -17,15 +17,8 @@
     max-width:1000px;
 ">
 
-[![](https://visitcount.itsvg.in/api?id=SamzZzui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Centered intro block -->
-<p align="center">
-<div align="center" style="background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00)); padding:14px 18px; border-radius:12px; box-shadow: 0 8px 30px rgba(2,6,23,0.6); margin-bottom:18px; border: 1px solid rgba(255,255,255,0.02);">
-  <p style="margin:6px 0;">
-    <samp>
-  
-[![](https://visitcount.itsvg.in/api?id=SamzZzui&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=your-github-SamzZzui&abbreviated=true)
 
 <p align="center">     
       <a href="https://github.com/SamzZzui/readme-typing-svg" style="text-decoration:none;">
@@ -34,7 +27,9 @@
     </samp>
   </p>
 
-  <p style="margin:10px 0 0 0;">
+[![](https://visitcount.itsvg.in/api?id=SamzZzui&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p style="margin:10px 0 0 0;">
     <img width="260" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" style="border-radius:14px; box-shadow:0 18px 48px rgba(7,18,33,0.65); border:1px solid rgba(255,255,255,0.03);" alt="Fun GIF"/>
   </p>
 </div>
