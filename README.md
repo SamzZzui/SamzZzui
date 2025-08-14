@@ -155,9 +155,6 @@
   - Borders hatane ke liye `style="box-shadow:none"` use karein.
 </details>
 
-
-
-
 <!-- 🛠️ OSS Insight Card – Neon Admin Panel Style -->
 
 <div align="center" style="
@@ -168,7 +165,3 @@
     max-width:850px;
 ">
 
-
-
-
----
